@@ -64,5 +64,3 @@ The project also include a web app with bootstap and Flask where an emergency wo
  3. Go to http://0.0.0.0:3001/
  
  
- # 5. GitHub link:
- 
